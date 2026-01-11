@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋  
+# The name’s Raz
 
-<!--
-**RAaz00r/RAaz00r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner developer and a second-year Computer Engineering student.  
+I’m learning step by step by building, breaking, and improving real projects.
 
-Here are some ideas to get you started:
+## 🔨 What I’m working on
+- 🇲🇦 Moroccan PCPartPicker–style website (website-first project)
+- Strengthening fundamentals in HTML, CSS, JavaScript
+- Learning Git & GitHub properly
+- Exploring game development through GameDev and game modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build useful, real-world projects
+- Improve consistently, step by step
+- Develop strong programming fundamentals
+- Move toward full-stack development
+- Create video games
+
+## 🛠️ Tech I use and explore
+- HTML, CSS, JavaScript
+- Python
+- C
+- Git & GitHub
+- Unity
+- Godot
+
+## 💭 Motivation
+> “I’m enjoying the uselessness of today, and preparing my usefulness for tomorrow.” - Gustave , *Clair Obscure : Expedition 33*
